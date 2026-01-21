@@ -1,4 +1,5 @@
-:- module(auc,[compute_areas/5,compute_areas_diagrams/5, compute_maxacc/2]).
+:- module(auc,[compute_areas/5,compute_areas_diagrams/5, compute_maxacc/2, 
+    compute_pointsroc/8, compute_aucpr/5]).
 
 /** <module> auc
 
